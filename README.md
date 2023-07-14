@@ -1,5 +1,5 @@
 <div>
-  <img align="left" alt="Java-coding-standards-and-best-practices" src="https://github.com/Ismael-Moreira/Ismael-Moreira/assets/137077969/e9f0dd0d-90d7-41a1-bd5e-0ea82e8dd409" width="350px"/>
+  <img align="left" alt="Code Screenshot" src="https://github.com/Ismael-Moreira/Ismael-Moreira/assets/137077969/e9f0dd0d-90d7-41a1-bd5e-0ea82e8dd409" width="350px"/>
 
 <br><br>
   
