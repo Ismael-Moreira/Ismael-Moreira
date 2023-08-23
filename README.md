@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 Student of Management and Programming of Computer Systems
-- 💻 Proficient in various programming languages, including JavaScript, Java, Python, C, C++ and C#
+- 🎓 Student of Ethical Hacking
 - 💡 Always seeking new challenges and opportunities
 - 🌐 Interested in game development, mobile, and web
 
